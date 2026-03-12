@@ -2,10 +2,10 @@
 
 Resultados obtidos do tempo de execução:
 
-n = 10 -> 0.00000191 seconds
-n = 100 -> 0.00001693 seconds
-n = 500 -> 0.00013757 seconds
-n = 1000 -> recursion limit reached
+n = 10 -> 0.00000191 seconds <br/>
+n = 100 -> 0.00001693 seconds <br/>
+n = 500 -> 0.00013757 seconds <br/>
+n = 1000 -> recursion limit reached <br/>
 
 ## Análise da Complexidade
 
