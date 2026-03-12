@@ -9,7 +9,7 @@ n = 1000 -> recursion limit reached
 
 ## Análise da Complexidade
 
-O algoritmo de fatorial recursivo apresentado opera em O(n). Cada chamada realiza apenas uma operação de forma constante, a multiplicação, e após isso a chamada da função.
+O algoritmo de fatorial recursivo apresentado opera em O(n). Cada chamada realiza apenas uma operação de forma constante, a multiplicação, e após isso a chamada da função. Logo, para calcular n! são necessárias n chamadas recursivas da função em questão.
 
 Isso resulta em um crescimento linear no tempo de execução, conforme o valor de n aumentar.
 
